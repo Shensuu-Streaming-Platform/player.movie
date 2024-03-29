@@ -15,12 +15,12 @@ export function MinimalPageLayout(props: { children: React.ReactNode }) {
       <BlurEllipsis />
       {/* Main page */}
       <div className="fixed px-7 py-5 left-0 top-0">
-        <Link
+       {/* <Link
           className="block tabbable rounded-full text-xs ssm:text-base"
           to="/"
         >
           <BrandPill clickable />
-        </Link>
+        </Link> */}
       </div>
       <div className="min-h-screen">{props.children}</div>
     </div>
