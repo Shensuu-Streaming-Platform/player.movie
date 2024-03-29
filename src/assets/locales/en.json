@@ -373,8 +373,8 @@
         "errorNotSupported": "The media or media provider object is not supported."
       },
       "homeButton": "Go home",
-      "text": "There was an error trying to play the media. Please try again.",
-      "title": "Failed to play video!"
+      "text": "Try another video source in the settings. (Try: VidsrcTo) There was an error trying to play the media.",
+      "title": "Try another source to play video!"
     },
     "scraping": {
       "items": {
