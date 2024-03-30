@@ -16,7 +16,8 @@ export function EpisodeTitle() {
           episode: meta?.episode?.number,
         })}
       </span>
-      <span className="text-type-secondary font-medium">
+	  <span class="text-type-secondary">|</span>
+      <span className="text-white font-medium">
         {meta?.episode?.title}
       </span>
     </div>
