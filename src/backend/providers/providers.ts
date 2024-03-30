@@ -2,7 +2,7 @@ import {
   makeProviders,
   makeStandardFetcher,
   targets,
-} from "@sheyste/providers";
+} from "@movie-web/providers";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
 import {

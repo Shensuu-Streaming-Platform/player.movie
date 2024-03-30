@@ -21,9 +21,9 @@ dependencies:
   '@ladjs/country-language':
     specifier: ^1.0.3
     version: 1.0.3
-  '@sheyste/providers':
-    specifier: ^2.2.5
-    version: 2.2.5
+  '@movie-web/providers':
+    specifier: ^2.2.3
+    version: 2.2.3
   '@noble/hashes':
     specifier: ^1.3.3
     version: 1.3.3
@@ -1942,7 +1942,7 @@ packages:
     engines: {node: '>= 14'}
     dev: false
 
-  /@sheyste/providers@2.2.5:
+  /@movie-web/providers@2.2.3:
     resolution: {integrity: sha512-0axy02Zzlk7Tvtalc/Ebv9u5vzUPVWmQm0Ts5+6l6KPU41JUdLnFgmOl0yf0lbNeHRNSTx5SDlvWcYNL8rgpyA==}
     dependencies:
       cheerio: 1.0.0-rc.12

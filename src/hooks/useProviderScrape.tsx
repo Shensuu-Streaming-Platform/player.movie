@@ -2,7 +2,7 @@ import {
   FullScraperEvents,
   RunOutput,
   ScrapeMedia,
-} from "@sheyste/providers";
+} from "@movie-web/providers";
 import { RefObject, useCallback, useEffect, useRef, useState } from "react";
 
 import { isExtensionActiveCached } from "@/backend/extension/messaging";
